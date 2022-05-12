@@ -19,6 +19,6 @@ What we have here is a program that works as follows:
 4. Related, the program plans deliveries such that appointment times can only be set on top of the hour since this is a real life constraint. Moreover, it allows for drivers to be "late" to their appointments for a maximum of 30 minutes. This gives real life flexibility to the program since drivers cannot realistically arrive exactly on time. Either way, the optimization program would be severly limited if that was a constraint. 
 5. Finally, the program optimizes to minimize for number of trucks used and time spent on the road, this ultimately results in minimized logistics costs.
 
-The program outputs clear routes, essentially, it outlines what orders should go on what truck and it chronologically specifies how deliveries will be made, the appointment times for each delivery and it allows for the truck to come back to the origin.
+The program outputs clear routes, essentially, it outlines what orders should go on what truck and it chronologically specifies how deliveries will be made. It specifies the appointment times for each delivery and it plans for the truck to come back to the origin; taking all of these considerations to minimize the time on the road.
 
-This program takes every real life component into consideration to make it immediatelly and practicallyt useful for logistics applications.
+This program takes every real life component into consideration to make it immediatelly and practically useful for logistics applications.
