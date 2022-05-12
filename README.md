@@ -6,7 +6,7 @@ Optimizing local deliveries considering weight, pallet, time window and loading 
 
 This project was co-developed by the author of this GitHub repository and a machine learning engineer whom we're going to call SK.
 
-Here, he have a proposed logistics company that holds products on inventory in their warehouse and makes local deliveries in it's city, in this case, we used addresses in a California metro area.
+Here, we have a proposed logistics company that holds products on inventory in their warehouse and makes local deliveries in it's city, in this case, we used addresses in a California metro area.
 
 The preface here is that the company organizes daily deliveries of the products in a manual way, namely, an employee decides every day how the deliveries are going to be organized the next day, purely based on experience.
 
